@@ -1,5 +1,6 @@
 
-![Uploading easyblog.png…]()
+
+![easyblog](https://github.com/user-attachments/assets/540ec42d-ef2e-4a87-b685-67b11ed72a82)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
